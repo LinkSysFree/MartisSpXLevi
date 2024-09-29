@@ -21,7 +21,7 @@ let assigned_minutes = 8;
 let watch_time_minutes = 60 * assigned_minutes;//secondsinminute * minutes
 
 //-----------------------------------------------
-let window_to_watch = "https://youtu.be/tmZ83z71PDQ?si=97C8DvKRv02GAXiQ";//link of the video
+let window_to_watch = "https://youtu.be/02-uhpn2W7U?si=2HLh_wS2zimDbtyU";//link of the video
 
 let main_Panel_Link = "https://linksysfree.github.io/Unlock_Link/";
 
